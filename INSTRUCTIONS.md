@@ -1,7 +1,6 @@
 Here are your task:
 
-- use the current folder to develop the project. It is using `sveltekit`, `tailwind` and `npm`. Check the file @/package.json to make sure you are aware of all technologies of this project
-- search on internet to make sure you are using the most updated version of all libs
+- use the current folder to develop the project. It is using `sveltekit`, `tailwind` and `npm`. Check the file `package.json` to make sure you are aware of all technologies of this project
 - generate all copywriting content. The proposal is a service to everyone that needs a website or landing page quick, personalized, exclusive.
 - The database of the project is postgres.
 - Read the website `https://svelte.dev/docs/svelte/llms.txt` to learn how to use the latest version of sveltekit
