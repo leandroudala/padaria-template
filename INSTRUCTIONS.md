@@ -4,6 +4,8 @@ Here are your task:
 - search on internet to make sure you are using the most updated version of all libs
 - generate all copywriting content. The proposal is a service to everyone that needs a website or landing page quick, personalized, exclusive.
 - The database of the project is postgres.
+- Read the website `https://svelte.dev/docs/svelte/llms.txt` to learn how to use the latest version of sveltekit
+- Read the website `https://context7.com/websites/tailwindcss/llms.txt` to learn how to use the latest version of tailwind css
 
 Divide the development in several steps, and after each step:
 
