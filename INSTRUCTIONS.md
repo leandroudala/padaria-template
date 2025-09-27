@@ -14,7 +14,6 @@ Divide the development in several steps, and after each step:
 - if you find any error with the command `npm run check`, fix it
 - run the command `npm run lint` to make sure the agent is following all the best practices of the project.
 - if you find any error with the command `npm run lint`, fix it
-- **never use the npm command**
 - **always use the `npm` command** to add or remove libs, or execute any command of package.json file
 - **never start the project**, I will do that when you finish
 - The database is Postgres. To run the migrations, use the `npm run db:push --force` command
