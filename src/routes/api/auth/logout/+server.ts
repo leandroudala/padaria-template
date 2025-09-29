@@ -2,10 +2,13 @@
 import { json } from '@sveltejs/kit';
 import type { RequestHandler } from '@sveltejs/kit';
 
-export const POST: RequestHandler = async () => {
-  // In a production app, you would want to blacklist tokens
-  // For this demo, we'll just return success since JWT tokens
-  // are stateless and will expire naturally
+export const POST: RequestHandler = async ({ cookies }) => {
+  // Clear the authentication cookies
+  cookies.delete('admin_token', { path: '/admin' });
+  cookies.delete('admin_refresh_token', { path: '/admin' });
   
-  return json({ message: 'Logout realizado com sucesso' });
+  return json({ 
+    success: true, 
+    message: 'Logout realizado com sucesso' 
+  });
 };
