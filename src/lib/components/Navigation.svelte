@@ -86,8 +86,8 @@
     <div class="flex justify-between items-center h-20">
       <!-- Logo/Brand -->
       <div class="flex-shrink-0">
-        <a 
-          href="#home"
+        <button 
+          type="button"
           onclick={(e) => scrollToSection('#home', e)}
           class="flex items-center space-x-3 group"
         >
@@ -107,7 +107,7 @@
               {siteContent.siteTagline}
             </p>
           </div>
-        </a>
+        </button>
       </div>
       
       <!-- Desktop Navigation -->

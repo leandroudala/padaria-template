@@ -20,13 +20,13 @@
     },
     {
       id: '3',
-      src: 'https://images.unsplash.com/photo-1555507036-ab794f27049d?w=600&h=400&fit=crop&crop=center',
+      src: 'https://cdn.pixabay.com/photo/2016/11/29/10/09/bakery-1868925_1280.jpg',
       alt: gallery.imageAlt.interior,
       category: 'bakery'
     },
     {
       id: '4',
-      src: 'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&h=400&fit=crop&crop=center',
+      src: 'https://cdn.pixabay.com/photo/2020/02/11/21/09/baker-4840960_1280.jpg',
       alt: gallery.imageAlt.baker,
       category: 'team'
     },
