@@ -1,0 +1,17 @@
+{
+    "theme_color": "#9f3c00",
+    "background_color": "#9f3c00",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "name": "Padaria Digital",
+    "short_name": "Padaria",
+    "description": "Site demo de uma Padaria",
+    "icons": [
+        {
+            "src": "favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ]
+}
