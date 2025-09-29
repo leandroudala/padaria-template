@@ -1,8 +1,8 @@
 // src/lib/server/auth.ts
-import jwt, { type SignOptions } from 'jsonwebtoken';
-import bcrypt from 'bcryptjs';
-import { serverEnv } from './env';
 import type { RequestEvent } from '@sveltejs/kit';
+import bcrypt from 'bcryptjs';
+import jwt from 'jsonwebtoken';
+import { serverEnv } from './env';
 
 const { JWT_SECRET, JWT_EXPIRES_IN, REFRESH_TOKEN_EXPIRES_IN, ADMIN_EMAIL, ADMIN_PASSWORD_HASH } = serverEnv;
 
