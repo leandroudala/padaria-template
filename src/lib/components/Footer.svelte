@@ -51,7 +51,7 @@
           </a>
           
           <a 
-            href="https://wa.me/{location.whatsapp.replace(/[^\d]/g, '')}"
+            href="https://wa.me/5511949076185"
             target="_blank"
             rel="noopener noreferrer"
             class="group w-10 h-10 bg-amber-800 hover:bg-green-600 rounded-full flex items-center justify-center transition-colors"
@@ -130,7 +130,7 @@
             </a>
             <br>
             <a 
-              href="https://wa.me/{footer.sections.contact.whatsapp.replace(/[^\d]/g, '')}"
+              href="https://wa.me/5511949076185"
               target="_blank"
               rel="noopener noreferrer"
               class="text-amber-100/90 hover:text-amber-200 transition-colors text-sm"

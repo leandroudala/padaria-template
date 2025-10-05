@@ -325,7 +325,7 @@
               <div>
                 <p class="font-medium text-gray-900">{contact.info.whatsapp}</p>
                 <a 
-                  href="https://wa.me/{siteContent.location.whatsapp.replace(/[^\d]/g, '')}"
+                  href="https://wa.me/5511949076185"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="text-green-600 hover:text-green-700 transition-colors"

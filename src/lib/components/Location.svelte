@@ -123,7 +123,7 @@
               <div>
                 <p class="text-sm text-gray-600">WhatsApp</p>
                 <a 
-                  href="https://wa.me/{location.whatsapp.replace(/[^\d]/g, '')}"
+                  href="https://wa.me/5511949076185"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="font-semibold text-gray-900 hover:text-green-600 transition-colors"
