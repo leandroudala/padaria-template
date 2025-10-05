@@ -194,7 +194,7 @@
             </a>
             
             <a 
-              href="https://wa.me/{siteContent.location.whatsapp.replace(/[^\d]/g, '')}"
+              href="https://wa.me/5511949076185"
               target="_blank"
               rel="noopener noreferrer"
               class="flex items-center px-4 py-2 text-sm text-gray-600 hover:text-green-600 transition-colors"
