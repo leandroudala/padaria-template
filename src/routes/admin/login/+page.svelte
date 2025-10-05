@@ -220,7 +220,7 @@
     <!-- Footer -->
     <div class="text-center mt-8">
       <p class="text-gray-500 text-sm">
-        © 2024 Padaria Artesanal Vovó Maria
+        © 2025 Mercúrio Digital. Todos os direitos reservados.
       </p>
     </div>
   </div>

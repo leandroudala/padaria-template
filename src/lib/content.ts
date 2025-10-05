@@ -98,9 +98,9 @@ export const siteContent = {
       saturday: "Sábado: 06h às 18h",
       sunday: "Domingo: 07h às 16h"
     },
-    phone: "(11) 3456-7890",
-    whatsapp: "(11) 99876-5432",
-    email: "contato@padariavovomaria.com.br",
+    phone: "(11) 1234-5678",
+    whatsapp: "(11) 94907-6185",
+    email: "udala.app@gmail.com",
     directions: "Como Chegar"
   },
 
@@ -167,9 +167,9 @@ export const siteContent = {
       contact: {
         title: "Contato",
         address: "Rua das Flores, 123 - Centro",
-        phone: "(11) 3456-7890",
-        whatsapp: "(11) 99876-5432",
-        email: "contato@padariavovomaria.com.br"
+        phone: "(11) 1234-5678",
+        whatsapp: "(11) 94907-6185",
+        email: "udala.app@gmail.com"
       }
     },
     social: {
@@ -177,7 +177,7 @@ export const siteContent = {
       instagram: "Instagram",
       whatsapp: "WhatsApp"
     },
-    copyright: "© 2024 Padaria Artesanal Vovó Maria. Todos os direitos reservados."
+    copyright: "© 2025 Mercúrio Digital. Todos os direitos reservados."
   },
 
   // Common labels
